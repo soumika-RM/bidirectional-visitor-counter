@@ -11,7 +11,7 @@ This Arduino project implements a bidirectional visitor counter using sensors an
 
 ## Installation
 
-1. **Clone the Repository**:
+1. **Clone the Repository**: git clone https://github.com/soumika-RM/bidirectional-visitor-counter
 2. **Upload Code to Arduino**:
 - Open `bidirectional_visitor_counter.ino` in Arduino IDE.
 - Connect your Arduino board via USB.
