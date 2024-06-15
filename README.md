@@ -18,10 +18,6 @@ This Arduino project implements a bidirectional visitor counter using sensors an
 - Select the correct board and port in Arduino IDE.
 - Upload the code to your Arduino.
 
-## Circuit Diagram
-
-Include a simple diagram or a link to a diagram showing how components are connected.
-
 ## Usage
 
 - Adjust sensor pins (`sensorPin1` and `sensorPin2`) in the code based on your actual setup.
